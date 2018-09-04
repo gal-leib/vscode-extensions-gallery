@@ -1,0 +1,14 @@
+{
+  "name": "vscode-extensions-gallery",
+  "version": "1.0.0",
+  "description": "A Visual Studio Code extensions service.",
+  "main": "app.js",
+  "keywords": [
+    "vscode"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "tslint": "^5.11.0",
+    "typescript": "^3.0.3"
+  }
+}

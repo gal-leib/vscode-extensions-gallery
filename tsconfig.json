@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "noFallthroughCasesInSwitch": true,
+        "noImplicitReturns": true,
+        "module": "commonjs",
+        "target": "es2017",
+        "moduleResolution": "node",
+        "outDir": "dist",
+        "lib": ["es2017"],
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}
